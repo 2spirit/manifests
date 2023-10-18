@@ -8,5 +8,4 @@
   <project path="hardware/xiaomi" remote="github" name="LineageOS/android_hardware_xiaomi" revision="lineage-20" />
   <project path="vendor/partner_gms" name="lineageos4microg/android_vendor_partner_gms" remote="github" revision="master" />
   <project path="ih8sn" name="2spirit/ih8sn" remote="github" revision="master" />
-  <project path="vendor/xiaomi/sweet-miuicamera" name="2spirit/android_vendor_xiaomi_sweet-miuicamera" remote="github" revision="thirteen" />
 </manifest>
